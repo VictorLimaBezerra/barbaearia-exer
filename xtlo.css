@@ -1,0 +1,80 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px; 
+    /*cima,direita,baixo,esquerda*/
+}
+
+body {
+    background-color: rgb(247, 219, 160);
+}
+
+#barbearia {
+    padding: 10px;
+}
+
+.principal {
+    background-color: aliceblue;
+    padding: 0px;
+}
+
+.titulo-principal {
+    text-align: center;
+}
+.titulo-centralizado {
+    text-align: center;
+    color: rgb(75, 16, 212);
+    font-size: 30px;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    color: rgb(10, 73, 38);
+    font-size: 25px;
+    padding: 10px;
+}
+
+#missao {
+    font-size: 25px;
+}
+
+em {
+    color: rgb(65, 11, 65);
+    }
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: aliceblue;
+    padding-top: 40px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgben {
+    padding: 20PX;
+}
