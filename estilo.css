@@ -120,7 +120,7 @@ form label, form legend {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
-    width: 50%;
+    width: 80%;
 }
 
 .checkbox {
@@ -298,6 +298,5 @@ td, th {
         width: 90%;
         margin: 10px auto;
     }
-
     
 }       
