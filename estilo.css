@@ -268,7 +268,7 @@ td, th {
 }
 
 @media screen and (max-width:480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .produtos {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .produtos, .corpo-contato {
          width: auto;
     }
 
@@ -294,8 +294,10 @@ td, th {
     }
  
     .produtos li {
-            display: inline-block;
-            width: 90%;
-            margin: 10px auto;
+        display: inline-block;
+        width: 90%;
+        margin: 10px auto;
     }
-}
+
+    
+}       
